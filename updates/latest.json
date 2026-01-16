@@ -1,0 +1,14 @@
+{
+  "app": "AutoCreators",
+  "version": "1.1.0",
+  "build": 2,
+  "releaseDate": "2026-01-16",
+  "notes": [
+    "Новая версия 1.1",
+    "Улучшения производительности",
+    "Исправления ошибок"
+  ],
+  "url": "https://fise13.github.io/AutoCreators/updates/AutoCreators-1.1.0.zip",
+  "minSchemaVersion": 1,
+  "mandatory": false
+}
